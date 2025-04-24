@@ -38,10 +38,9 @@ Save or display the final transformed images for analysis and use plt.show() to 
 <br>
 
 ## Program:
-```python
-Developed By: YUVARAM . S
+Developed By: YUVARAM . S <br>
 Register Number: 212224230315
-```
+
 i)Image Translation
 ```
 rows, cols, _ = image.shape
