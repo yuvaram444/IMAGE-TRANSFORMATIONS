@@ -94,8 +94,6 @@ plt.show()
 ### i)Image Translation
 <br>
 <br>
-![lion-1](https://github.com/user-attachments/assets/ed95e5b5-7320-4eec-9599-37ba6f4ede85)
-
 <br>
 <br>
 
